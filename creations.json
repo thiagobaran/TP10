@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Ecommerce",
+        "description": "La idea de este prpyecto es crear una pagina que contenga productos para asi poder crear un Ecommerce",
+        "image": ["templatemo_578_first_portfolio/images/ecommerce.jpg"],
+        "date": "2023-07-13",
+        "url": "https://github.com/thiagobaran/TP7.git"
+    },
+    {
+        "title": "Guess de flag!",
+        "description": "Juego para adivinar el pais de la bandera",
+        "image": ["templatemo_578_first_portfolio/images/flags.png"],
+        "date": "2023-06-09",
+        "url": "https://github.com/thiagobaran/TP6React"
+    },
+    {
+        "title": "Consultora",
+        "description": "Baranas Co. es una empresa de software",
+        "image": ["templatemo_578_first_portfolio/images/flags.png"],
+        "date": "2022-06-26",
+        "url": "https://www.instagram.com/baranas.co/"
+    },
+    {
+        "title": "Organizador de citas",
+        "description": "web para organizar crear y eliminar citas para un veterinario",
+        "image": ["templatemo_578_first_portfolio/images/veterinario.jpg"],
+        "date": "2022-05-17",
+        "url": "https://github.com/thiagobaran/tp5ReactAranaBaranczuk"
+    },
+    {
+        "title": "Logueo de perfil",
+        "description": "Web que permite crear usuario y loguearse",
+        "image": ["templatemo_578_first_portfolio/images/login.gif"],
+        "date": "2023-09-07",
+        "url": "https://github.com/thiagobaran/DAILogin"
+    },
+    {
+        "title": "App geriatricos",
+        "description": "Una app para conectar a las familiar de los pacientes con las residencias",
+        "image": ["templatemo_578_first_portfolio/images/heart.jpg"],
+        "date": "2023-04-07",
+        "url": "https://github.com/facurozen/Proyecto-Final-2023"
+    }
+
+]
